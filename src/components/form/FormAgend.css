@@ -1,0 +1,34 @@
+.form-agend{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    gap:10px;   
+}
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    background-color: #FFCBDB ;
+    font-size: 20px;
+    border-style: groove;
+    border-radius: 10px;
+}
+button{
+    width: 100px;
+    border-radius: 10px;
+    background-color: #ff4c82;
+    border-style: groove;
+    font-size: 18px;
+}
+.button-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

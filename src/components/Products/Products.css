@@ -1,0 +1,21 @@
+
+.slide-product{
+    width: 300px;
+    align-items: center;
+    justify-content: center; 
+}
+.details-container{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:#ff78a1;
+}
+#value{
+    font-size: 14px;
+}
+#title-div{
+    justify-content: center;
+    display: flex;
+}
+

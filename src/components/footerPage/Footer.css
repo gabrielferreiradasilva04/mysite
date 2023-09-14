@@ -1,19 +1,16 @@
-header{
-    display: flex;
-    background-color: #FFCBDB;
-    height: 100px;
+footer {
+    padding-left: 20px;
+    column-count: 2;
 }
-#logo-header{
-    width: 200px;
-    opacity: 50%;
-}
-#menu-options{
-    display: flex;
+.title-container{
     align-items: center;
+    display: flex;
     justify-content: center;
-    gap: 12px;
+}
+.information-container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 600;
-    padding-left: 15px;
-    padding-top: 50px;
 }

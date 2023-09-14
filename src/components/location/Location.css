@@ -1,0 +1,22 @@
+
+.location-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+}
+.location{
+    height: 450px;
+    width: 95vw;
+}
+.description-container{
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    color: #ff79a1;
+}
+.main-container{
+    border-style: ridge;
+    border-color: #ffcbdb;
+}
